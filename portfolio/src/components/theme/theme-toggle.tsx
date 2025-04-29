@@ -32,10 +32,6 @@ export function ThemeToggle() {
           <MoonIcon className="size-4" />
           Dark
         </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => setTheme("system")}>
-          <GearIcon className="size-4" />
-          System
-        </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
   )
