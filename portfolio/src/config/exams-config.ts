@@ -4,7 +4,7 @@ import {EvidenceProps} from "@/components/pages/skills-section";
 export const ExamsConfig: ExamCardProps[] = [
   {
     duration: "40min",
-    title: "Épreuve E4",
+    title: "Épreuve E5",
     description: "L'épreuve se divise en deux temps : une présentation de 10 minutes du parcours de professionnalisation, suivie de 30 minutes d'échange avec le jury pour approfondir les réalisations du dossier. Cet entretien évalue les compétences du candidat et sa contribution en équipe.",
     documents: [
       {
@@ -24,7 +24,7 @@ export const ExamsConfig: ExamCardProps[] = [
 
   {
     duration: "2h10min",
-    title: "Épreuve E5",
+    title: "Épreuve E6",
     description: "L’évaluation dure 40 minutes (+1h30 de préparation) et comporte deux phases : d’abord, 30 minutes de préparation suivies d’un entretien de 20 minutes sur une expression de besoins, puis une heure de préparation pour réaliser une solution, validée par un entretien explicatif.",
     documents: []
   },
@@ -124,13 +124,13 @@ export const ExamSkills: EvidenceProps[] = [
     description:
       "Contribuer à valoriser l'image de l'organisation sur les médias numériques en tenant compte des contraintes juridiques et des enjeux économiques, tout en référencent ses services en ligne et mesurant leur visibilité, ainsi qu'en participant à l'évolution d'un site Web utilisant les données de l'organisation.",
     documents: [
-      //{
-      //  path: "/docs/exams/e4/stage_wepa.pdf",
-      //  title: "portfolio",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/portfolio.pdf",
+        title: "Portfolio",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
       {
         path: "/docs/exams/e4/rapport_stage.pdf",
         title: "Stage de deuxième année",
@@ -247,13 +247,13 @@ export const ExamSkills: EvidenceProps[] = [
         variant: "document",
         isExternalLink: true,
       },
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "portfolio",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/portfolio.pdf",
+        title: "Portfolio",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
       //{
       //  path: "/docs/exams/e4/rapport_stage.pdf",
       //  title: "Veille tech",
