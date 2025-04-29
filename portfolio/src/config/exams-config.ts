@@ -40,7 +40,9 @@ export const ExamsConfig: ExamCardProps[] = [
       isExternalLink: true,
     },]
   }
+
 ]
+
 
 export const ExamSkills: EvidenceProps[] = [
   {
@@ -77,13 +79,13 @@ export const ExamSkills: EvidenceProps[] = [
         variant: "document",
         isExternalLink: true,
       },
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP WEB",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/rapport_stage.pdf",
+        title: "AP WEB",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
       //{
       //  path: "/docs/exams/e4/rapport_stage.pdf",
       //  title: "AP CL",
