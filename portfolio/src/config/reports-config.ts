@@ -104,7 +104,7 @@ export const GPTReports: InteractionCardProps[] = [
     isExternalLink: true,
   },
   {
-    path: "/docs/tech-watch/CONCLUSION.pdf",
+    path: "/docs/tech-watch/conclusion.pdf",
     title: "IA dans la santé - Edition Finale",
     description: "CONCLUSION",
     isExternalLink: true,
