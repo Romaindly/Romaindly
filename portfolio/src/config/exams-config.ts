@@ -8,7 +8,7 @@ export const ExamsConfig: ExamCardProps[] = [
     description: "L'épreuve se divise en deux temps : une présentation de 10 minutes du parcours de professionnalisation, suivie de 30 minutes d'échange avec le jury pour approfondir les réalisations du dossier. Cet entretien évalue les compétences du candidat et sa contribution en équipe.",
     documents: [
       {
-        path: "/docs/exams/e4/Formulaire_attestation_de_stage.pdf",
+        path: "/docs/exams/e4/Formulaire_attestation_de_stage2.pdf",
         title: "Attestation de stage 1ére année de BTS SIO",
         variant: "document",
         isExternalLink: true,
