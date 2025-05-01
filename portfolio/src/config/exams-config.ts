@@ -86,13 +86,13 @@ export const ExamSkills: EvidenceProps[] = [
         variant: "document",
         isExternalLink: true,
       },
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP CL",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/marieteam_cl.pdf",
+        title: "AP Client Lourd",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
     ],
   },
   {
@@ -145,13 +145,7 @@ export const ExamSkills: EvidenceProps[] = [
       //  variant: "document",
       //  isExternalLink: true,
       //},
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP CL",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+
     ],
   },
   {
@@ -181,13 +175,13 @@ export const ExamSkills: EvidenceProps[] = [
       //  variant: "document",
       //  isExternalLink: true,
       //},
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP CL",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/marieteam_cl.pdf",
+        title: "AP Client Lourd",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
     ],
   },
   {
@@ -225,13 +219,13 @@ export const ExamSkills: EvidenceProps[] = [
       //  variant: "document",
       //  isExternalLink: true,
       //},
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP CL",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/marieteam_cl.pdf",
+        title: "AP Client Lourd",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
     ],
   },
   {
@@ -254,13 +248,13 @@ export const ExamSkills: EvidenceProps[] = [
         variant: "document",
         isExternalLink: true,
       },
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "Veille tech",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/conclusion2.pdf",
+        title: "Veille tech",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
     ],
   },
 ];
