@@ -26,7 +26,7 @@ export const ExamsConfig: ExamCardProps[] = [
         isExternalLink: true,
       },
       {
-        path: "/docs/exams/e4/epreuve_E5.pdf",
+        path: "/docs/exams/e4/epreuve_E5_.pdf",
         title: "Présentation oral",
         variant: "document",
         isExternalLink: true,
@@ -52,7 +52,22 @@ export const ExamsConfig: ExamCardProps[] = [
     duration: "2h10min",
     title: "Épreuve E6",
     description: "L’évaluation dure 40 minutes (+1h30 de préparation) et comporte deux phases : d’abord, 30 minutes de préparation suivies d’un entretien de 20 minutes sur une expression de besoins, puis une heure de préparation pour réaliser une solution, validée par un entretien explicatif.",
-    documents: []
+    documents: [
+      {
+        path: "/docs/exams/e4/marieteam_web.pdf",
+        title: "AP MarieTeam Web",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
+      {
+        path: "/docs/exams/e4/marieteam_cl.pdf",
+        title: "AP Client Lourd",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
+    ]
   },
   {
     duration: "20min",
