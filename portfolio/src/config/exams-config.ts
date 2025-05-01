@@ -8,6 +8,12 @@ export const ExamsConfig: ExamCardProps[] = [
     description: "L'épreuve se divise en deux temps : une présentation de 10 minutes du parcours de professionnalisation, suivie de 30 minutes d'échange avec le jury pour approfondir les réalisations du dossier. Cet entretien évalue les compétences du candidat et sa contribution en équipe.",
     documents: [
       {
+        path: "/docs/exams/e4/tableau.pdf",
+        title: "Tableau de synthèse",
+        variant: "document",
+        isExternalLink: true,
+      },
+      {
         path: "/docs/exams/e4/Formulaire_attestation_de_stage2.pdf",
         title: "Attestation de stage 1ére année de BTS SIO",
         variant: "document",
@@ -16,6 +22,26 @@ export const ExamsConfig: ExamCardProps[] = [
       {
         path: "/docs/exams/e4/stage-bts.pdf",
         title: "Attestation de stage 2ème année de BTS SIO",
+        variant: "document",
+        isExternalLink: true,
+      },
+      {
+        path: "/docs/exams/e4/epreuve_E5.pdf",
+        title: "Présentation oral",
+        variant: "document",
+        isExternalLink: true,
+      },
+      {
+        path: "/docs/exams/e4/stage_wepa.pdf",
+        title: "Stage de première année",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
+      {
+        path: "/docs/exams/e4/rapport_stage.pdf",
+        title: "Stage de deuxième année",
+        description: "",
         variant: "document",
         isExternalLink: true,
       },
@@ -138,13 +164,13 @@ export const ExamSkills: EvidenceProps[] = [
         variant: "document",
         isExternalLink: true,
       },
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP WEB",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/marieteam_web.pdf",
+        title: "AP MarieTeam Web",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
 
     ],
   },
@@ -168,13 +194,13 @@ export const ExamSkills: EvidenceProps[] = [
         variant: "document",
         isExternalLink: true,
       },
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP WEB",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/marieteam_web.pdf",
+        title: "AP MarieTeam Web",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
       {
         path: "/docs/exams/e4/marieteam_cl.pdf",
         title: "AP Client Lourd",
@@ -212,13 +238,13 @@ export const ExamSkills: EvidenceProps[] = [
         variant: "document",
         isExternalLink: true,
       },
-      //{
-      //  path: "/docs/exams/e4/rapport_stage.pdf",
-      //  title: "AP WEB",
-      //  description: "",
-      //  variant: "document",
-      //  isExternalLink: true,
-      //},
+      {
+        path: "/docs/exams/e4/marieteam_web.pdf",
+        title: "AP MarieTeam Web",
+        description: "",
+        variant: "document",
+        isExternalLink: true,
+      },
       {
         path: "/docs/exams/e4/marieteam_cl.pdf",
         title: "AP Client Lourd",
