@@ -26,7 +26,7 @@ export const ExamsConfig: ExamCardProps[] = [
         isExternalLink: true,
       },
       {
-        path: "/docs/exams/e4/epreuve_E5.pptx",
+        path: "/docs/exams/e4/epreuve_E5.pdf",
         title: "Présentation oral",
         variant: "document",
         isExternalLink: true,
